@@ -11,7 +11,8 @@ public class FMODEventEmitterInspector : Editor
 	bool is3D;
 	float minDistance, maxDistance;
 	
-	//jake loves sloppy seconds
+	//jake loves sloppy seconds lolololololol
+
 	
 	void Awake()
 	{
